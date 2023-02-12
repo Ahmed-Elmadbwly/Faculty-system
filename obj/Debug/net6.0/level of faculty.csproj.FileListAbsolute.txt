@@ -1,0 +1,15 @@
+D:\c#\faculty\level of faculty\level of faculty\bin\Debug\net6.0\level of faculty.exe
+D:\c#\faculty\level of faculty\level of faculty\bin\Debug\net6.0\level of faculty.deps.json
+D:\c#\faculty\level of faculty\level of faculty\bin\Debug\net6.0\level of faculty.runtimeconfig.json
+D:\c#\faculty\level of faculty\level of faculty\bin\Debug\net6.0\level of faculty.dll
+D:\c#\faculty\level of faculty\level of faculty\bin\Debug\net6.0\level of faculty.pdb
+D:\c#\faculty\level of faculty\level of faculty\obj\Debug\net6.0\level of faculty.csproj.AssemblyReference.cache
+D:\c#\faculty\level of faculty\level of faculty\obj\Debug\net6.0\level of faculty.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\faculty\level of faculty\level of faculty\obj\Debug\net6.0\level of faculty.AssemblyInfoInputs.cache
+D:\c#\faculty\level of faculty\level of faculty\obj\Debug\net6.0\level of faculty.AssemblyInfo.cs
+D:\c#\faculty\level of faculty\level of faculty\obj\Debug\net6.0\level of faculty.csproj.CoreCompileInputs.cache
+D:\c#\faculty\level of faculty\level of faculty\obj\Debug\net6.0\level of faculty.dll
+D:\c#\faculty\level of faculty\level of faculty\obj\Debug\net6.0\refint\level of faculty.dll
+D:\c#\faculty\level of faculty\level of faculty\obj\Debug\net6.0\level of faculty.pdb
+D:\c#\faculty\level of faculty\level of faculty\obj\Debug\net6.0\level of faculty.genruntimeconfig.cache
+D:\c#\faculty\level of faculty\level of faculty\obj\Debug\net6.0\ref\level of faculty.dll

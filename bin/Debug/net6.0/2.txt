@@ -1,0 +1,13 @@
+ Name is : Ahmed Almadbwly
+ ID is : 98765
+ City : KFS
+ Faculty : FCI
+ Age : 19
+  =========================================  
+  Name is : ahmed mo 
+ ID is : 456
+ City : KFS
+ Faculty : FCI
+ Age : 8
+  =========================================  
+ 

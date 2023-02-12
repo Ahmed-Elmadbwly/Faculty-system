@@ -1,0 +1,11 @@
+ Name is : Ahmed Almadbwly
+ ID is : 9876
+ City : KFS
+ Faculty : FCI
+ Age : 19
+ ===============================================   Name is : shaker 
+ ID is : 9765
+ City : KFS
+ Faculty : FCI
+ Age : 19
+ ===============================================  
